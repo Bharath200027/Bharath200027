@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharath G</h1>
 <h3 align="center">Unity developer/Game Developer and a passionate Robotics enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1gh0qeTL8soDi3S_x03KzNgAdrwlR9ZTv/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1gh0qeTL8soDi3S_x03KzNgAdrwlR9ZTv/view?usp=drive_link">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath200027&label=Profile%20views&color=0e75b6&style=flat" alt="bharath200027" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Ludo Multiplayer**
 
-- 🌱 I’m currently learning **Design Patterns, Unreal Engine, Code Architectures**
+- 🌱 I’m currently learning **Design Patterns, Unreal, Code Architectures**
 
 - 👨‍💻 All of my projects are available at [https://bharath27naidu.wixsite.com/my-portfolio](https://bharath27naidu.wixsite.com/my-portfolio)
 
