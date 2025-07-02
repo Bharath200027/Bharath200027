@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharath200027" alt="bharath200027" /></a> </p>
 
-- 🔭 I’m currently working on **Ludo Multiplayer**
+- 🔭 I’m currently working on **AI-Assisted Cancer Detection and Explanation System**
 
 - 🌱 I’m currently learning **Design Patterns, Unreal, Code Architectures**
 
