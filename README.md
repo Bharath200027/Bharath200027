@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Design Patterns, Unreal, Code Architectures**
 
-- 👨‍💻 All of my projects are available at [https://bharath27naidu.wixsite.com/my-portfolio](https://bharath27naidu.wixsite.com/my-portfolio)
-
 - 💬 Ask me about **Unity,AI, AR, VR, MR, Robotics**
 
 - 📫 How to reach me **bharath27.naidu@gmail.com**
