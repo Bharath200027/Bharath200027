@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharath G</h1>
-<h3 align="center">Unity developer/Robotics Developer and a passionate Robotics enthusiast from India</h3>
+<h3 align="center">Robotics Developer/AI Developer and a passionate Robotics enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath200027&label=Profile%20views&color=0e75b6&style=flat" alt="bharath200027" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bharath27naidu.wixsite.com/my-portfolio](https://bharath27naidu.wixsite.com/my-portfolio)
 
-- 💬 Ask me about **Unity,Game Development, AR, VR, MR, Robotics**
+- 💬 Ask me about **Unity,AI, AR, VR, MR, Robotics**
 
 - 📫 How to reach me **bharath27.naidu@gmail.com**
 
