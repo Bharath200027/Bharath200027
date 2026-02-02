@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Design Patterns, Unreal, Code Architectures**
 
-- 💬 Ask me about **Unity,AI, AR, VR, MR, Robotics**
+- 💬 Ask me about **Robotics,AI, MR, Unity, Software Architecture**
 
 - 📫 How to reach me **bharath27.naidu@gmail.com**
 
