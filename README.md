@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bharath27.naidu@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1yoJYhzSBZWk3VF6gc5skcR-wXNidUcld/view?usp=sharing]]([https://drive.google.com/file/d/1yoJYhzSBZWk3VF6gc5skcR-wXNidUcld/view?usp=sharing])
+- 📄 Know about my experiences[Resume][https://drive.google.com/file/d/1yoJYhzSBZWk3VF6gc5skcR-wXNidUcld/view?usp=sharing]
 
 - ⚡ Fun fact **I always believe in upskilling and I'm very passionate about technology, which is why I currently take technology courses during the evenings and weekends.**
 
